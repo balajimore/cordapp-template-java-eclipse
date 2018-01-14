@@ -15,8 +15,7 @@ You will need the following installed on your machine before you can start:
 * [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
   installed and available on your path (Minimum version: 1.8_131).
 * [Eclipse](http://www.eclipse.org/downloads/) (Minimum version MARS.2)
-* [Eclipse Buildship: Eclipse Plug-ins for Gradle]
-(https://projects.eclipse.org/projects/tools.buildship/downloads)
+* [Eclipse Buildship: Eclipse Plug-ins for Gradle](https://projects.eclipse.org/projects/tools.buildship/downloads)
 * git
 * Optional: [h2 web console](http://www.h2database.com/html/download.html)
   (download the "platform-independent zip")
@@ -29,11 +28,11 @@ Corda docsite.
 
 To get started, clone this repository with:
 
-     git clone https://github.com/corda/cordapp-template-java.git
+     git clone https://github.com/balajimore/cordapp-template-java-eclipse
 
 And change directories to the newly cloned repo:
 
-     cd cordapp-template-java
+     cd cordapp-template-java-eclipse
 
 ## Building the CorDapp template:
 
